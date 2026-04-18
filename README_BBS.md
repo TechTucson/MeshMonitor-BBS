@@ -6,6 +6,8 @@ It runs as a command handler (`bbs.py`) and stores state in JSON files under `/d
 
 ## Trigger Setup
 
+- Trigger: `{param:^bbs\b.*}`
+
 <img width="1664" height="259" alt="image" src="https://github.com/user-attachments/assets/febeb663-f811-4810-9d9a-fbba11298e63" />
 
 
