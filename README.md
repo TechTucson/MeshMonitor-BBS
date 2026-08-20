@@ -12,6 +12,13 @@ This repo currently includes two feature-focused README files:
 - **Focus:** DM-based bulletin boards with board creation, posting, reading, and moderation.
 - **Highlights:** `bbs create`, `bbs boards`, `bbs post`, `bbs read`, `bbs del`, `bbs delboard`, and `bbs more`; includes optional board passwords and admin override behavior.
 
+
+## 3) Check-in Bot Docs
+- **File:** [`CHECKIN_README.md`](./CHECKIN_README.md)
+- **Focus:** Private, DM-only node check-ins for Meshtastic users.
+- **Highlights:** `checkin`, `checkin last`, `checkin user`, `checkin mine`, and `checkin more`; uses `--nid` / node ids like the mail script.
+
 ## Quick pick
 - Use **mail features**? Start with [`MAIL_README.md`](./MAIL_README.md).
 - Use **board/forum features**? Start with [`README_BBS.md`](./README_BBS.md).
+- Use **check-in features**? Start with [`CHECKIN_README.md`](./CHECKIN_README.md).
